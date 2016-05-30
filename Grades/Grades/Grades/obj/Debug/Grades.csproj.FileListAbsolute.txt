@@ -4,3 +4,9 @@ c:\users\gbal\documents\visual studio 2015\Projects\Grades\Grades\bin\Debug\Grad
 c:\users\gbal\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 c:\users\gbal\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.exe
 c:\users\gbal\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\bin\Debug\Grades.exe.config
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\obj\Debug\Grades.exe
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\obj\Debug\Grades.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\bin\Debug\Grades.exe
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\bin\Debug\Grades.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

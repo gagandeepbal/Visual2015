@@ -6,3 +6,11 @@ c:\Users\gbal\documents\visual studio 2015\Projects\Grades\GradesTesting\obj\Deb
 c:\Users\gbal\documents\visual studio 2015\Projects\Grades\GradesTesting\obj\Debug\GradesTesting.pdb
 c:\Users\gbal\documents\visual studio 2015\Projects\Grades\GradesTesting\bin\Debug\Grades.exe
 c:\Users\gbal\documents\visual studio 2015\Projects\Grades\GradesTesting\bin\Debug\Grades.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\bin\Debug\GradesTesting.dll
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\bin\Debug\GradesTesting.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\bin\Debug\Grades.exe
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\bin\Debug\Grades.pdb
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\obj\Debug\GradesTesting.csprojResolveAssemblyReference.cache
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\obj\Debug\GradesTesting.dll
+W:\GAGANDEEP\Visual2015\Visual2015\Grades\Grades\GradesTesting\obj\Debug\GradesTesting.pdb
